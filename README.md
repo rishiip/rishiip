@@ -6,3 +6,5 @@
 - 💬 Ask me about anything [here](https://github.com/rishiip/ama), I'm happy to help!
 - 📫 How to reach me: rishi.pithadiya@gmail.com | [rishipi](https://twitter.com/rishipi)
 - ⚡ Blog: [rishi.tips](https://rishi.tips/p/) | [@rishi](https://dev.to/rishi/)
+
+[![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishiip)](https://github.com/rishiip/github-readme-stats)
