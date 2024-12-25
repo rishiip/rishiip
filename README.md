@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Ruby on Rails.
-- 🌱 I’m currently learning advanced ruby on rails concepts.
-- 👯 I’m looking to collaborate on open source projects or blogs.
-- 💬 Ask me about anything [here](https://github.com/rishiip/ama), I'm happy to help!
+- 🔭 I’m currently working on Ruby on Rails, Typescript, Nodejs, AWS and Terraform.
+- 🌱 I’m currently learning advanced ruby on rails concepts, system Design and AWS services.
 - 📫 How to reach me: rishi.pithadiya@gmail.com | [rishipi](https://twitter.com/rishipi)
 - ⚡ Blog: [rishi.tips](https://rishi.tips/p/) | [@rishi](https://dev.to/rishi/)
-
-[![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishiip)](https://github.com/rishiip/github-readme-stats)
+- 🤝 [Quick Chat | 1:1 Mentoring | Career Guidance](https://topmate.io/rishipi/179683)
